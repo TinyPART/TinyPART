@@ -26,16 +26,16 @@ responsive_bp: 768
 permalink: /:page.html
 
 navbar_list:
-- name: Home
+- name: About
   link: /
-- name: Publications
-  link: /publications
 #- name: Background
   #link: background
 #- name: Agenda
   #link: agenda
 - name: Partners
   link: /partners
+- name: Publications
+  link: /publications
 - name: Contact
   link: /contact
 # Configuration for asides.html
