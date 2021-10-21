@@ -11,7 +11,7 @@ sass:
 gems: ['jekyll/scholar']
 
 url: https://TinyPART.github.io/TinyPART
-baseurl: https://TinyPART.github.io/TinyPART/
+baseurl: https://TinyPART.github.io/TinyPART
 
 # Configuration for site
 title: TinyPART
