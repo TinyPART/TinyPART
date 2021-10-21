@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# TinyPART
+# About TinyPART
 
 TinyPART is German-French project in the joint Call on Cybersecurity,
 sponsored by the [German Ministry of Education and
