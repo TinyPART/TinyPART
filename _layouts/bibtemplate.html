@@ -1,0 +1,52 @@
+---
+---
+<div class="text-justify">{{reference}}</div>
+
+{% if entry.abstract %}
+    <button class="button0" data-toggle="collapse" data-target="#collapse-{{  entry.key }}" aria-expanded="false" aria-controls="collapseExample">
+    Abstract
+    </button>
+	<div class="collapse" id="collapse-{{  entry.key }}">
+      <div class="card card-body">
+         <p><br/>
+         <b>Abstract: </b>
+         {{ entry.abstract }}
+         </p>
+       </div>
+     </div>
+{% endif %}
+ 
+{% if entry.doi %}
+    <a href="{{ entry.doi | prepend: 'http://doi.org/' }}"><input class="button1" type="button" value="doi" /></a>
+{% endif %}
+ 
+{% if entry.preprint %}
+    <a href="{{ entry.preprint }}"><input class="button2" type="button" value="preprint" /></a>
+{% endif %}
+ 
+{% if entry.file %}
+    <a href="{{ entry.file }}"><input class="button1" type="button" value="PDF" /></a>
+{% endif %}
+
+{% if entry.url %}
+    <a href="{{ entry.url }}"><input class="button1" type="button" value="HTML" /></a>
+{% endif %}
+
+{% if entry.code %}
+    <a href="{{ entry.code }}"><input class="button3" type="button" value="Artifacts" /></a>
+{% endif %}
+
+   <button class="button4" data-toggle="collapse" data-target="#collapse-key-{{  entry.key }}" aria-expanded="false" aria-controls="collapseExample">
+   BibTeX
+    </button>
+	<div class="collapse" id="collapse-key-{{  entry.key }}">
+      <div class="card card-body">
+         <p><br/>
+           <pre><code>
+             {{ entry.bibtex }}
+           </code></pre>
+         </p>
+       </div>
+     </div>
+
+<p></p>

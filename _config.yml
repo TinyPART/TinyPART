@@ -1,0 +1,65 @@
+safe: true
+source: .
+destination: ./_site
+highlighter: rouge
+markdown: kramdown
+exclude: ['CNAME', 'Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', '.sass-cache']
+sass:
+  style: uncompressed
+
+# Load plugins
+gems: ['jekyll/scholar']
+
+url: https://TinyPART.github.io/TinyPART
+baseurl: https://TinyPART.github.io/TinyPART/
+
+# Configuration for site
+title: TinyPART
+# short_title: Dagstuhl IoT Hackathon 2017
+description: Software-Defined Low-power Internet of Things
+author: TinyPART Project Team
+email:
+logo: 
+
+responsive_bp: 768
+
+permalink: /:page.html
+
+navbar_list:
+- name: Home
+  link: /
+- name: Publications
+  link: /publications
+#- name: Background
+  #link: background
+#- name: Agenda
+  #link: agenda
+- name: Partners
+  link: /partners
+- name: Contact
+  link: /contact
+# Configuration for asides.html
+asides:
+  github: false
+  links: false
+  partners: true
+  sponsors: true
+  # tweets: false
+
+
+scholar:
+   #style: assets/bibliography/ieee-with-url.csl
+   #style: ieee-with-url
+   #style: chicago-fullnote-bibliography
+   style: _bib/my-ieee.csl
+   source: ./_bib
+   bibliography: tinypart.bib
+   #bibliography_template: "{{reference}}"
+   bibliography_template: "bibtemplate"
+   replace_strings: true
+
+   details_dir:    bib
+   details_layout: bibtex.html
+   details_link:   Details
+   bibtex_filters:
+     - latex
