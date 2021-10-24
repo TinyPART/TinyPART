@@ -16,7 +16,7 @@ baseurl: https://TinyPART.github.io/TinyPART
 # Configuration for site
 title: TinyPART
 # short_title: Dagstuhl IoT Hackathon 2017
-description: Software-Defined Low-power Internet of Things
+description: Tiny, PrivAte, pRoved and isolaTed
 author: TinyPART Project Team
 email:
 logo: images/Logo_TinyPART.png
