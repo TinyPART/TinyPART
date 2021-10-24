@@ -4,7 +4,7 @@ layout: default
 
 # About TinyPART
 
-TinyPART is German-French project in the joint Call on Cybersecurity,
+TinyPART is a German-French project in the joint Call on Cybersecurity,
 sponsored by the [German Ministry of Education and
 Research](https://www.bmbf.de/en/index.html) and the [Agence Nationale de
 la Recherche](https://anr.fr/en/).
