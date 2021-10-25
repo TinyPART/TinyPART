@@ -24,8 +24,8 @@ The following institutions and companies are involved in TinyPART:
 
 TinyPART is related to the following open-source communities:
 
- * RIOT [RIOT](https://www.riot-os.org/)
- * PIP[(Gilles Grimaud)](http://pip.univ-lille1.fr/)
+ * RIOT [(website)](https://www.riot-os.org/)
+ * PIP [(website)](http://pip.univ-lille1.fr/)
 
 
 
