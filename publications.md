@@ -22,9 +22,9 @@ Below is a short list of previous publications of TinyPART partners, which inspi
 
 - Nicolas Dejon, Chrystel Gaber, Gilles Grimaud. "Perspectives on security kernels for IoT". RESSI (Rendez-Vous de la Recherche et de l'Enseignement de la Sécurité des Systèmes d'Information), Dec 2020. [[PDF](https://hal.archives-ouvertes.fr/hal-03102252/document)]
 
-- Mahieddine Yaker, Gilles Grimaud, Julien Cartigny, Chrystel Gaber, Jean-Philippe Wary, Xiao Han, and Vicente Sanchez-Leighton. "Ensuring IoT security with an architecture based on a separation kernel". The IEEE 6th International Conference on Future Internet of Things and Cloud (FiCloud 2018), August 2018, Barcelona, Spain. DOI: 10.1109/FiCloud.2018.00025 
+- Mahieddine Yaker, Gilles Grimaud, Julien Cartigny, Chrystel Gaber, Jean-Philippe Wary, Xiao Han, and Vicente Sanchez-Leighton. "Ensuring IoT security with an architecture based on a separation kernel". The IEEE 6th International Conference on Future Internet of Things and Cloud (FiCloud 2018), August 2018, Barcelona, Spain. DOI: 10.1109/FiCloud.2018.00025 [[PDF](https://ieeexplore.ieee.org/document/8458002)]
 
-- Narjes Jomaa, Paolo Torrini, David Nowak, Gilles Grimaud, and Samuel Hym. "Proof-Oriented Design of a Separation Kernel with Minimal Trusted Computing Base". 18th International Workshop on Automated Verification of Critical Systems (AVOCS 2018), July 2018, Oxford, United Kingdom. Electronic Communications of the EASST Open Access Journal. Volume 76. DOI: 10.14279/tuj.eceasst.76.1080
+- Narjes Jomaa, Paolo Torrini, David Nowak, Gilles Grimaud, and Samuel Hym. "Proof-Oriented Design of a Separation Kernel with Minimal Trusted Computing Base". 18th International Workshop on Automated Verification of Critical Systems (AVOCS 2018), July 2018, Oxford, United Kingdom. Electronic Communications of the EASST Open Access Journal. Volume 76. DOI: 10.14279/tuj.eceasst.76.1080 [[PDF](https://hal.archives-ouvertes.fr/hal-01816830v2/document)]
 
 
 
