@@ -20,13 +20,6 @@ The following institutions and companies are involved in TinyPART:
  * PHYSEC ([Kai Jansen](https://www.physec.de/en/home_en/))
 
 
-# Open source communities
-
-TinyPART is related to the following open-source communities:
-
- * RIOT [(website)](https://www.riot-os.org/)
- * PIP [(website)](http://pip.univ-lille1.fr/)
-
 <p float="left">
   <img src="https://github.com/TinyPART/TinyPART/raw/main/images/partner-logos/logo-orange-header.png" />
   <img src="https://github.com/TinyPART/TinyPART/raw/main/images/partner-logos/logo-inria.png" /> 
@@ -34,4 +27,13 @@ TinyPART is related to the following open-source communities:
   <img src="https://github.com/TinyPART/TinyPART/raw/main/images/partner-logos/logo-lille.png" />
   <img src="https://github.com/TinyPART/TinyPART/raw/main/images/partner-logos/logo-physec.png" />
 </p>
+
+
+# Open source communities
+
+TinyPART is related to the following open-source communities:
+
+ * RIOT [(website)](https://www.riot-os.org/)
+ * PIP [(website)](http://pip.univ-lille1.fr/)
+
 
