@@ -42,8 +42,8 @@ navbar_list:
 asides:
   github: false
   links: false
-  partners: true
-  sponsors: true
+  partners: false
+  sponsors: false
   # tweets: false
 
 
