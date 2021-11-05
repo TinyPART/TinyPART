@@ -28,4 +28,6 @@ TinyPART is related to the following open-source communities:
  * PIP [(website)](http://pip.univ-lille1.fr/)
 
 
-
+                           |                           |                           |                           |
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](images/partner-logos/logo-orange-header.png)  |  ![](images/partner-logos/logo-inria.png)  |  ![](images/partner-logos/logo-fub.jpg)  |  ![](images/partner-logos/logo-lille.png)  |  ![](images/partner-logos/logo-physec.png)
