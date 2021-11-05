@@ -28,10 +28,10 @@ TinyPART is related to the following open-source communities:
  * PIP [(website)](http://pip.univ-lille1.fr/)
 
 <p float="left">
-  <img src="images/partner-logos/logo-orange-header.png" />
-  <img src="images/partner-logos/logo-inria.png" /> 
-  <img src="images/partner-logos/logo-fub.jpg" />
-  <img src="images/partner-logos/logo-lille.jpg" />
-  <img src="images/partner-logos/logo-physec.jpg" />
+  <img src="https://github.com/TinyPART/TinyPART/raw/main/images/partner-logos/logo-orange-header.png" />
+  <img src="https://github.com/TinyPART/TinyPART/raw/main/images/partner-logos/logo-inria.png" /> 
+  <img src="https://github.com/TinyPART/TinyPART/raw/main/images/partner-logos/logo-fub.jpg" />
+  <img src="https://github.com/TinyPART/TinyPART/raw/main/images/partner-logos/logo-lille.png" />
+  <img src="https://github.com/TinyPART/TinyPART/raw/main/images/partner-logos/logo-physec.png" />
 </p>
 
