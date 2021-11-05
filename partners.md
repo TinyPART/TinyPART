@@ -24,8 +24,8 @@ The following institutions and companies are involved in TinyPART:
   <img src="https://github.com/TinyPART/TinyPART/raw/main/images/partner-logos/logo-orange-header.png" />
   <img src="https://github.com/TinyPART/TinyPART/raw/main/images/partner-logos/logo-inria.png" /> 
   <img src="https://github.com/TinyPART/TinyPART/raw/main/images/partner-logos/logo-fub.jpg" />
-  <img src="https://github.com/TinyPART/TinyPART/raw/main/images/partner-logos/logo-lille.png" />
   <img src="https://github.com/TinyPART/TinyPART/raw/main/images/partner-logos/logo-physec.png" />
+  <img src="https://github.com/TinyPART/TinyPART/raw/main/images/partner-logos/logo-lille.png" />
 </p>
 
 
