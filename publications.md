@@ -4,6 +4,11 @@ layout: default
 
 # Publications
 
+- S. Yuan, F. Besson, JP Talpin, S. Hym, K. Zandberg, E. Baccelli. A Verified eBPF Virtual Machine for Microcontrollers. To appear in the 34th International Conference on Computer Aided Verification (CAV 2022), August 2022.
+
+- G. Banegas, K. Zandberg, A. Herrmann, E. Baccelli, B. Smith. Quantum-Resistant Security for Software Updates on Low-power Networked Embedded Devices. To appear in the 20th International Conference on
+Applied Cryptography and Network Security (ACNS 2022), June 2022. [PDF](https://eprint.iacr.org/2021/781.pdf)
+
 - K. Zandberg, E. Baccelli. "Femto-Containers: DevOps on Microcontrollers with Lightweight Virtualization & Isolation for IoT Software Modules." Preprint arXiv, Oct. 2021. [[PDF](https://arxiv.org/pdf/2106.12553.pdf)]
 
 
