@@ -4,11 +4,15 @@ layout: default
 
 # Publications
 
+- K. Zandberg, E. Baccelli, S. Yuan, F. Besson, JP Talpin. Femto-Containers: Lightweight Virtualization and Fault Isolation For Small Software Functions on Low-Power IoT Microcontrollers, in ACM/IFIP International Middleware Conference, to appear, Nov. 2022.
+
+- S. Yuan, F. Besson, JP Talpin, S. Hym, K. Zandberg, E. Baccelli. End-to-End Mechanized Proof of an eBPF Virtual Machine for Micro-controllers. In International Conference on Computer Aided Verification (CAV), Aug. 2022. [[PDF](https://www.irisa.fr/prive/talpin/papers/cav22.pdf)]
+
 -  Nicolas Dejon, Chrystel Gaber, Gilles Grimaud. From MMU to MPU: adaptation of the Pip kernel to constrained devices. To appear in the 3rd International Conference on Internet of Things & Embedded Systems (IoTE 2022), Dec 2022. [[PDF](https://hal.archives-ouvertes.fr/hal-03705114/document)]
 
 -  Nicolas Dejon, Chrystel Gaber, Gilles Grimaud. Evaluation d’une solution d’isolation pour objets contraints. Conférence francophone d'informatique en Parallélisme, Architecture et Système (COMPAS 2022), July 2022. [[PDF](https://hal.archives-ouvertes.fr/hal-03710419/document)]
 
-- S. Yuan, F. Besson, JP Talpin, S. Hym, K. Zandberg, E. Baccelli. A Verified eBPF Virtual Machine for Microcontrollers. To appear in the 34th International Conference on Computer Aided Verification (CAV 2022), August 2022. [PDF](https://www.irisa.fr/prive/talpin/papers/cav22.pdf)
+- S. Yuan, F. Besson, JP Talpin, S. Hym, K. Zandberg, E. Baccelli. A Verified eBPF Virtual Machine for Microcontrollers. To appear in the 34th International Conference on Computer Aided Verification (CAV 2022), August 2022. [[PDF](https://www.irisa.fr/prive/talpin/papers/cav22.pdf)]
 
 - G. Banegas, K. Zandberg, A. Herrmann, E. Baccelli, B. Smith. Quantum-Resistant Security for Software Updates on Low-power Networked Embedded Devices. To appear in the 20th International Conference on
 Applied Cryptography and Network Security (ACNS 2022), June 2022. [[PDF](https://eprint.iacr.org/2021/781.pdf)]
