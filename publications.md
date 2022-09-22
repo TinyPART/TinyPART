@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Related Publications
+# Publications
 
 -  Nicolas Dejon, Chrystel Gaber, Gilles Grimaud. From MMU to MPU: adaptation of the Pip kernel to constrained devices. To appear in the 3rd International Conference on Internet of Things & Embedded Systems (IoTE 2022), Dec 2022. [[PDF](https://hal.archives-ouvertes.fr/hal-03705114/document)]
 
