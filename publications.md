@@ -2,18 +2,20 @@
 layout: default
 ---
 
-# Publications
+# Related Publications
+
+-  Nicolas Dejon, Chrystel Gaber, Gilles Grimaud. From MMU to MPU: adaptation of the Pip kernel to constrained devices. To appear in the 3rd International Conference on Internet of Things & Embedded Systems (IoTE 2022), Dec 2022. [[PDF](https://hal.archives-ouvertes.fr/hal-03705114/document)]
 
 - K. Zandberg, E. Baccelli, S. Yuan, F. Besson, JP Talpin. Femto-Containers: Lightweight Virtualization and Fault Isolation For Small Software Functions on Low-Power IoT Microcontrollers, in ACM/IFIP International Middleware Conference, to appear, Nov. 2022.
 
 - S. Yuan, F. Besson, JP Talpin, S. Hym, K. Zandberg, E. Baccelli. End-to-End Mechanized Proof of an eBPF Virtual Machine for Micro-controllers. In International Conference on Computer Aided Verification (CAV), Aug. 2022. [[PDF](https://www.irisa.fr/prive/talpin/papers/cav22.pdf)]
 
--  Nicolas Dejon, Chrystel Gaber, Gilles Grimaud. From MMU to MPU: adaptation of the Pip kernel to constrained devices. To appear in the 3rd International Conference on Internet of Things & Embedded Systems (IoTE 2022), Dec 2022. [[PDF](https://hal.archives-ouvertes.fr/hal-03705114/document)]
-
 -  Nicolas Dejon, Chrystel Gaber, Gilles Grimaud. Evaluation d’une solution d’isolation pour objets contraints. Conférence francophone d'informatique en Parallélisme, Architecture et Système (COMPAS 2022), July 2022. [[PDF](https://hal.archives-ouvertes.fr/hal-03710419/document)]
 
 - G. Banegas, K. Zandberg, A. Herrmann, E. Baccelli, B. Smith. Quantum-Resistant Security for Software Updates on Low-power Networked Embedded Devices. To appear in the 20th International Conference on
 Applied Cryptography and Network Security (ACNS 2022), June 2022. [[PDF](https://eprint.iacr.org/2021/781.pdf)]
+
+- P. Staat, J. Tobisch, C. Zenger, C. Paar. Anti-Tamper Radio: System-Level Tamper Detection for Computing Systems. In IEEE Symposium on Security and Privacy (SP), May 2022. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9833631&casa_token=jwjRlbbAbEQAAAAA:o57OzfPgvLMyayNvlSgHeUev5D1hQe64iWdm3M73GmcPiuDzzN6Q2PSaXI1XAk1YThq-SxeuVw&tag=1)]
 
 - K. Zandberg, E. Baccelli. "Femto-Containers: DevOps on Microcontrollers with Lightweight Virtualization & Isolation for IoT Software Modules." Preprint arXiv, Oct. 2021. [[PDF](https://arxiv.org/pdf/2106.12553.pdf)]
 
