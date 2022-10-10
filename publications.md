@@ -6,7 +6,7 @@ layout: default
 
 -  Nicolas Dejon, Chrystel Gaber, Gilles Grimaud. From MMU to MPU: adaptation of the Pip kernel to constrained devices. To appear in the 3rd International Conference on Internet of Things & Embedded Systems (IoTE 2022), Dec 2022. [[PDF](https://hal.archives-ouvertes.fr/hal-03705114/document)]
 
-- K. Zandberg, E. Baccelli, S. Yuan, F. Besson, JP Talpin. Femto-Containers: Lightweight Virtualization and Fault Isolation For Small Software Functions on Low-Power IoT Microcontrollers, in ACM/IFIP International Middleware Conference, to appear, Nov. 2022.
+- K. Zandberg, E. Baccelli, S. Yuan, F. Besson, JP Talpin. Femto-Containers: Lightweight Virtualization and Fault Isolation For Small Software Functions on Low-Power IoT Microcontrollers, in ACM/IFIP International Middleware Conference, Nov. 2022. [[PDF](https://arxiv.org/pdf/2210.03432.pdf)]
 
 - S. Yuan, F. Besson, JP Talpin, S. Hym, K. Zandberg, E. Baccelli. End-to-End Mechanized Proof of an eBPF Virtual Machine for Micro-controllers. In International Conference on Computer Aided Verification (CAV), Aug. 2022. [[PDF](https://www.irisa.fr/prive/talpin/papers/cav22.pdf)]
 
