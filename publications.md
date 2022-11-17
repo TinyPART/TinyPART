@@ -15,6 +15,8 @@ layout: default
 - G. Banegas, K. Zandberg, A. Herrmann, E. Baccelli, B. Smith. Quantum-Resistant Security for Software Updates on Low-power Networked Embedded Devices. To appear in the 20th International Conference on
 Applied Cryptography and Network Security (ACNS 2022), June 2022. [[PDF](https://eprint.iacr.org/2021/781.pdf)]
 
+- Florian Vanhems, Vlad Rusu, David Nowak, Gilles Grimaud. A Formal Correctness Proof for an EDF Scheduler Implementation. RTAS 2022: 28th IEEE Real-Time and Embedded Technology and Applications Symposium, May 2022, Milan, Italy. [[PDF](https://hal.inria.fr/hal-03671598v2/document)]
+
 - K. Zandberg, E. Baccelli. "Femto-Containers: DevOps on Microcontrollers with Lightweight Virtualization & Isolation for IoT Software Modules." Preprint arXiv, Oct. 2021. [[PDF](https://arxiv.org/pdf/2106.12553.pdf)]
 
 
