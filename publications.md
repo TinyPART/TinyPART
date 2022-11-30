@@ -12,7 +12,7 @@ layout: default
 
 -  Nicolas Dejon, Chrystel Gaber, Gilles Grimaud. Evaluation d’une solution d’isolation pour objets contraints. Conférence francophone d'informatique en Parallélisme, Architecture et Système (COMPAS 2022), July 2022. [[PDF](https://hal.archives-ouvertes.fr/hal-03710419/document)]
 
-- G. Banegas, K. Zandberg, A. Herrmann, E. Baccelli, B. Smith. Quantum-Resistant Security for Software Updates on Low-power Networked Embedded Devices. To appear in the 20th International Conference on
+- G. Banegas, K. Zandberg, A. Herrmann, E. Baccelli, B. Smith. Quantum-Resistant Security for Software Updates on Low-power Networked Embedded Devices. 20th International Conference on
 Applied Cryptography and Network Security (ACNS 2022), June 2022. [[PDF](https://eprint.iacr.org/2021/781.pdf)]
 
 - Florian Vanhems, Vlad Rusu, David Nowak, Gilles Grimaud. A Formal Correctness Proof for an EDF Scheduler Implementation. RTAS 2022: 28th IEEE Real-Time and Embedded Technology and Applications Symposium, May 2022, Milan, Italy. [[PDF](https://hal.inria.fr/hal-03671598v2/document)]
