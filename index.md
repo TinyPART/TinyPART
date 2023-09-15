@@ -10,6 +10,7 @@ TinyPART aims to develop Software-Defined IoT building blocks for a deeply embed
 TinyPART is a German-French research project on cybersecurity jointly sponsored by the [German Ministry of Education and Research](https://www.bmbf.de/bmbf/en) and the [French National Research Agency](https://anr.fr/en/).
 
 ## News
+- September 2022: TinyPART contributors Gilles Grimaud and Chrystel Gaber will present TinyPART results in RIOT summit. Gilles Grimaud will present [RIOT over PIP embedding secure OTA deployment]{https://summit.riot-os.org/2023/blog/speakers/gilles-grimaud/} and Chrystel Gaber will present [TinyContainer, an abstraction and resource control layer for containers on RIOT]{https://summit.riot-os.org/2023/blog/speakers/chrystel-gaber/}.
 - December 2022: Presentation of the article "From MMU to MPU: adaptation of the Pip kernel to constrained devices" in the 3rd International Conference on Internet of Things & Embedded Systems (IoTE 2022)
 - December 14, 2022: PhD defense of Nicolas Dejon, "Design of a secure kernel for constrained devices"
 - November 5-11, 2022: IETF meeting in London, where implementation feedback on the upcoming SUIT and CORECONF standards was delivered and discussed.

@@ -3,11 +3,12 @@ layout: default
 ---
 # Deliverables
 
-All public deliverables are available on our [TinyPART github](https://github.com/TinyPART/PublicDeliverables)
+All public deliverables are available on our [TinyPART github public deliverables repository](https://github.com/TinyPART/PublicDeliverables)
 
 # Publications
+-  Nicolas Dejon, Chrystel Gaber; Gilles Grimaud. Pip-MPU: Formal verification of an MPU-based separation kernel for constrained devices, International Journal of Embedded Systems and Applications, June 2023. [[PDF](https://hal.science/hal-04185923/document)]
 
--  Nicolas Dejon, Chrystel Gaber, Gilles Grimaud. From MMU to MPU: adaptation of the Pip kernel to constrained devices. To appear in the 3rd International Conference on Internet of Things & Embedded Systems (IoTE 2022), Dec 2022. [[PDF](https://hal.archives-ouvertes.fr/hal-03705114/document)]
+-  Nicolas Dejon, Chrystel Gaber, Gilles Grimaud. From MMU to MPU: adaptation of the Pip kernel to constrained devices. In International Conference on Internet of Things & Embedded Systems (IoTE 2022), Dec 2022. [[PDF](https://hal.archives-ouvertes.fr/hal-03705114/document)]
 
 - K. Zandberg, E. Baccelli, S. Yuan, F. Besson, JP Talpin. Femto-Containers: Lightweight Virtualization and Fault Isolation For Small Software Functions on Low-Power IoT Microcontrollers, in ACM/IFIP International Middleware Conference, Nov. 2022. [[PDF](https://arxiv.org/pdf/2210.03432.pdf)]
 
