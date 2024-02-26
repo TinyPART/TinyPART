@@ -6,6 +6,13 @@ layout: default
 All public deliverables are available on our [TinyPART github public deliverables repository](https://github.com/TinyPART/PublicDeliverables)
 
 # Publications
+
+- K. Zandberg, M. Gulati, G. Wunder, E. Baccelli. Model CBOR Serialization for Federated Learning. arXiv preprint arXiv:2401.14056, Jan. 2024. [[PDF](https://arxiv.org/pdf/2401.14056.pdf)]
+
+- Z. Huang, K. Zandberg, K. Schleiser, E. Baccelli. U-TOE: Universal TinyML On-Board Evaluation Toolkit for Low-Power IoT. In the IFIP/IEEE International Conference on Performance Evaluation and Modeling in Wired and Wireless Networks (PEMWN), Sept. 2023. [[PDF](https://hal.science/hal-04382496/document)]
+
+- B. Moran, H. Tschofenig, H. Birkholz, K. Zandberg. A Concise Binary Object Representation (CBOR)-based Serialization Format for the Software Updates for Internet of Things (SUIT) Manifest. IETF working group draft, October 2023. [[PDF](https://datatracker.ietf.org/doc/pdf/draft-ietf-suit-manifest-24)]
+
 -  Nicolas Dejon, Chrystel Gaber; Gilles Grimaud. Pip-MPU: Formal verification of an MPU-based separation kernel for constrained devices, International Journal of Embedded Systems and Applications, June 2023. [[PDF](https://hal.science/hal-04185923/document)]
 
 -  Nicolas Dejon, Chrystel Gaber, Gilles Grimaud. From MMU to MPU: adaptation of the Pip kernel to constrained devices. In International Conference on Internet of Things & Embedded Systems (IoTE 2022), Dec 2022. [[PDF](https://hal.archives-ouvertes.fr/hal-03705114/document)]
@@ -28,6 +35,9 @@ Applied Cryptography and Network Security (ACNS 2022), June 2022. [[PDF](https:/
 
 # Related Publications
 Below is a short list of other publications from TinyPART partners, which relate to the project.
+
+- FX Molina, E. Baccelli, K. Zandberg, D. Donsez, and O. Alphand. "Cubedate: Securing Software Updates in Orbit for Low-Power Payloads Hosted on CubeSats." In the IFIP/IEEE International Conference on Performance Evaluation and Modeling in Wired and Wireless Networks (PEMWN), Sept. 2023. [[PDF](https://hal.science/hal-04382485/document)]
+
 
 - P. Staat, J. Tobisch, C. Zenger, C. Paar. Anti-Tamper Radio: System-Level Tamper Detection for Computing Systems. In IEEE Symposium on Security and Privacy (SP), May 2022. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9833631&casa_token=jwjRlbbAbEQAAAAA:o57OzfPgvLMyayNvlSgHeUev5D1hQe64iWdm3M73GmcPiuDzzN6Q2PSaXI1XAk1YThq-SxeuVw&tag=1)]
 
