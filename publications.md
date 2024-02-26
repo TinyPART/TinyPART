@@ -3,7 +3,7 @@ layout: default
 ---
 # Deliverables
 
-All public deliverables are available on our [TinyPART github public deliverables repository](https://github.com/TinyPART/PublicDeliverables)
+All public deliverables are available on our [TinyPART github public deliverables repository](https://github.com/TinyPART/PublicDeliverables).
 
 # Publications
 
