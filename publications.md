@@ -9,9 +9,13 @@ All public deliverables are available on our [TinyPART github public deliverable
 
 - K. Zandberg, M. Gulati, G. Wunder, E. Baccelli. Model CBOR Serialization for Federated Learning. arXiv preprint arXiv:2401.14056, Jan. 2024. [[PDF](https://arxiv.org/pdf/2401.14056.pdf)]
 
+- M. Gulati et al. [BETA-FL](https://ieeexplore.ieee.org/abstract/document/10338891): Blockchain-Event Triggered Asynchronous Federated Learning in Supply Chains. In 5th IEEE Int. Conference on Blockchain Computing and Applications (BCCA), October 2023. [[PDF](https://easychair.org/publications/preprint/pZdN)]
+
 - Z. Huang, K. Zandberg, K. Schleiser, E. Baccelli. U-TOE: Universal TinyML On-Board Evaluation Toolkit for Low-Power IoT. In the IFIP/IEEE International Conference on Performance Evaluation and Modeling in Wired and Wireless Networks (PEMWN), Sept. 2023. [[PDF](https://hal.science/hal-04382496/document)]
 
 - B. Moran, H. Tschofenig, H. Birkholz, K. Zandberg. A Concise Binary Object Representation (CBOR)-based Serialization Format for the Software Updates for Internet of Things (SUIT) Manifest. IETF working group draft, October 2023. [[PDF](https://datatracker.ietf.org/doc/pdf/draft-ietf-suit-manifest-24)]
+
+- B. Gross and G. Wunder. Differentially Private Synthetic Data Generation via Lipschitz-Regularised Variational Autoencoders. In 9th IEEE Int. Conf. on Privacy Computing and Data Security, August 2023. [[PDF](https://arxiv.org/abs/2304.11336)]
 
 -  Nicolas Dejon, Chrystel Gaber; Gilles Grimaud. Pip-MPU: Formal verification of an MPU-based separation kernel for constrained devices, International Journal of Embedded Systems and Applications, June 2023. [[PDF](https://hal.science/hal-04185923/document)]
 
