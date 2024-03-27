@@ -9,7 +9,7 @@ All public deliverables are available on our [TinyPART github public deliverable
 
 - K. Zandberg, M. Gulati, G. Wunder, E. Baccelli. Model CBOR Serialization for Federated Learning. arXiv preprint arXiv:2401.14056, Jan. 2024. [[PDF](https://arxiv.org/pdf/2401.14056.pdf)]
 
-- M. Gulati et al. [BETA-FL](https://ieeexplore.ieee.org/abstract/document/10338891): Blockchain-Event Triggered Asynchronous Federated Learning in Supply Chains. In 5th IEEE Int. Conference on Blockchain Computing and Applications (BCCA), October 2023. [[PDF](https://easychair.org/publications/preprint/pZdN)]
+- M. Gulati et al. BETA-FL: Blockchain-Event Triggered Asynchronous Federated Learning in Supply Chains. In 5th IEEE Int. Conference on Blockchain Computing and Applications (BCCA), October 2023. [[PDF](https://easychair.org/publications/preprint/pZdN)]
 
 - Z. Huang, K. Zandberg, K. Schleiser, E. Baccelli. U-TOE: Universal TinyML On-Board Evaluation Toolkit for Low-Power IoT. In the IFIP/IEEE International Conference on Performance Evaluation and Modeling in Wired and Wireless Networks (PEMWN), Sept. 2023. [[PDF](https://hal.science/hal-04382496/document)]
 
