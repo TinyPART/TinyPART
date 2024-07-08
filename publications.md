@@ -6,7 +6,7 @@ layout: default
 All public deliverables are available on our [TinyPART github public deliverables repository](https://github.com/TinyPART/PublicDeliverables).
 
 # Publications
-
+- N. Dejon, C. Gaber, G. Grimaud, N. Jomaa. Code to Qed, the Project's Manager Guide To Proof Engineering, ACM Transactions on Software Engineering and Methodology, June 2024 [[PDF](https://hal.science/hal-04600011)]
 - K. Zandberg, M. Gulati, G. Wunder, E. Baccelli. Model CBOR Serialization for Federated Learning. arXiv preprint arXiv:2401.14056, Jan. 2024. [[PDF](https://arxiv.org/pdf/2401.14056.pdf)]
 
 - M. Gulati et al. BETA-FL: Blockchain-Event Triggered Asynchronous Federated Learning in Supply Chains. In 5th IEEE Int. Conference on Blockchain Computing and Applications (BCCA), October 2023. [[PDF](https://easychair.org/publications/preprint/pZdN)]

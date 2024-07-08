@@ -10,6 +10,7 @@ TinyPART aims to develop Software-Defined IoT building blocks for a deeply embed
 TinyPART is a German-French research project on cybersecurity jointly sponsored by the [German Ministry of Education and Research](https://www.bmbf.de/bmbf/en) and the [French National Research Agency](https://anr.fr/en/).
 
 ## News
+- June 2024: Our guidelines of the proof development process have been published in ACM Transactions on Software Engineering and Methodology [PDF](https://hal.science/hal-04600011)
 - February 2024: We contributed to the latest version of the SUIT standard specifying metadata for low-power secure software updates (IETF draft work-in-progress [draft-ietf-suit-manifest-25](https://datatracker.ietf.org/doc/html/draft-ietf-suit-manifest-25)).
 - September 2023: TinyPART contributors Gilles Grimaud and Chrystel Gaber will present TinyPART results in RIOT summit. Gilles Grimaud will present [RIOT over PIP embedding secure OTA deployment](https://summit.riot-os.org/2023/blog/speakers/gilles-grimaud/) and Chrystel Gaber will present [TinyContainer, an abstraction and resource control layer for containers on RIOT](https://summit.riot-os.org/2023/blog/speakers/chrystel-gaber/).
 - August 2023: our work on U-TOE and low-power Machine Learning will be presented at IFIP/IEEE PEMWN.
