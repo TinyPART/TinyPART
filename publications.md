@@ -6,7 +6,11 @@ layout: default
 All public deliverables are available on our [TinyPART github public deliverables repository](https://github.com/TinyPART/PublicDeliverables).
 
 # Publications
+
+- Z. Huang, K. Zandberg, K. Schleiser , E. Baccelli. RIOT-ML: Toolkit for Over-the-Air Secure Updates and Performance Evaluation of TinyML Models. Springer Annals of Telecommunications 22:1-5, May 2024.[[PDF](https://link.springer.com/content/pdf/10.1007/s12243-024-01041-5.pdf)
+
 - N. Dejon, C. Gaber, G. Grimaud, N. Jomaa. Code to Qed, the Project's Manager Guide To Proof Engineering, ACM Transactions on Software Engineering and Methodology, June 2024 [[PDF](https://hal.science/hal-04600011)]
+
 - K. Zandberg, M. Gulati, G. Wunder, E. Baccelli. Model CBOR Serialization for Federated Learning. arXiv preprint arXiv:2401.14056, Jan. 2024. [[PDF](https://arxiv.org/pdf/2401.14056.pdf)]
 
 - M. Gulati et al. BETA-FL: Blockchain-Event Triggered Asynchronous Federated Learning in Supply Chains. In 5th IEEE Int. Conference on Blockchain Computing and Applications (BCCA), October 2023. [[PDF](https://easychair.org/publications/preprint/pZdN)]
