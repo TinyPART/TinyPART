@@ -7,7 +7,7 @@ All public deliverables are available on our [TinyPART github public deliverable
 
 # Publications
 
-- Z. Huang, K. Zandberg, K. Schleiser , E. Baccelli. RIOT-ML: Toolkit for Over-the-Air Secure Updates and Performance Evaluation of TinyML Models. Springer Annals of Telecommunications 22:1-5, May 2024.[[PDF](https://link.springer.com/content/pdf/10.1007/s12243-024-01041-5.pdf)
+- Z. Huang, K. Zandberg, K. Schleiser , E. Baccelli. RIOT-ML: Toolkit for Over-the-Air Secure Updates and Performance Evaluation of TinyML Models. Springer Annals of Telecommunications 22:1-5, May 2024.[[PDF](https://link.springer.com/content/pdf/10.1007/s12243-024-01041-5.pdf)]
 
 - N. Dejon, C. Gaber, G. Grimaud, N. Jomaa. Code to Qed, the Project's Manager Guide To Proof Engineering, ACM Transactions on Software Engineering and Methodology, June 2024 [[PDF](https://hal.science/hal-04600011)]
 
