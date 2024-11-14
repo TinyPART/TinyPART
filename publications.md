@@ -8,7 +8,7 @@ All public deliverables are available on our [TinyPART github public deliverable
 # Publications
 
 - M. Gulati, K. Zandberg, Z. Huang, G. Wunder, C. Adjih, E. Baccelli. TDMiL: Tiny Distributed Machine Learning for
-Microcontroller-based Interconnected Devices. IEEE International Symposium on the Internet of Sounds, Sept. 2024. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10745482)]
+Microcontroller-based Interconnected Devices. IEEE International Symposium on the Internet of Sounds, Nov. 2024. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10745482)]
 
 - Z. Huang, A. Tousnakhoff, P. Kozyr, R. Rehausen, F. Bießmann, R. Lachlan, C. Adjih, E. Baccelli. TinyChirp: Bird Song Recognition Using TinyML Models on Low-power Wireless Acoustic Sensors. IEEE International Symposium on the Internet of Sounds, Sept. 2024. [[PDF](https://arxiv.org/pdf/2407.21453)]
 
