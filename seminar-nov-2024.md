@@ -20,7 +20,7 @@ layout: default
 12h30 - Lunch
 
 * 14h00 - Tiny federated learning and TinyML. Mayank Gulati & Zhaolan Huang, Freie Universität Berlin, Germany.
-* 14h30 - Seal: Tamper-detection at the edge,  Manar Al Askary, PhySec, Germany.
+* 14h30 - Seal: Tamper-detection at the edge,  Manar Al Askary, PhySec GmbH, Germany.
 
 15h00 - Coffee
 
