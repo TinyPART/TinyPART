@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Workshop: New trends & Building Blocks for Security on Far *Far* Edge Devices
+# Workshop: New Trends & Building Blocks for Security on Far *Far* Edge Devices
 
 * Date: 13.12.2024
 * Location: Université de Lille, Bâtiment ESPRIT, Avenue Henri Poincaré, 59655 Villeneuve d'Ascq, France
