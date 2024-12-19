@@ -30,12 +30,14 @@ navbar_list:
   link: /
 #- name: Background
   #link: background
-#- name: Agenda
-  #link: agenda
+- name: Activity
+  link: /activity
 - name: Partners
   link: /partners
 - name: Publications
   link: /publications
+- name: Software
+  link: /software
 - name: Contact
   link: /contact
 # Configuration for asides.html
