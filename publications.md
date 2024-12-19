@@ -7,6 +7,8 @@ All public deliverables are available on our [TinyPART github public deliverable
 
 # Publications
 
+- B. Moran, H. Tschofenig, H. Birkholz, K. Zandberg, Ø. Rønningstad. A Concise Binary Object Representation (CBOR)-based Serialization Format for the Software Updates for Internet of Things (SUIT) Manifest, IETF draft-ietf-suit-manifest-32, Dec. 2024. [[PDF](https://www.ietf.org/archive/id/draft-ietf-suit-manifest-32.txt)]
+
 - M. Gulati, K. Zandberg, Z. Huang, G. Wunder, C. Adjih, E. Baccelli. TDMiL: Tiny Distributed Machine Learning for
 Microcontroller-based Interconnected Devices. In IEEE Access, Nov. 2024. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10745482)]
 
